@@ -16,8 +16,8 @@ Syntax highlighted code block
 
 
 ## My Favorite Things about CS 193
-- **No exams
-- _Laid-back classroom environment
+- **No exams**
+- _Laid-back classroom environment_
 - No textbook 
 
 1. Numbered
